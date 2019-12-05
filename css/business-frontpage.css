@@ -228,7 +228,7 @@ opacity: 1;
 }
 
 #Gallo{
-  background-image: url('Gallo_thumbnail.png');
+  background-image: url('Gallo_thumbnail.jpg');
   height: 100%;
   transition: all 0.3s ease-in-out;
   background-size: 110%;
