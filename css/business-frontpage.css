@@ -390,3 +390,8 @@ Width: 100%;
 
 
 }
+
+
+.clickable {
+    cursor: pointer;
+}
