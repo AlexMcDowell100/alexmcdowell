@@ -214,8 +214,38 @@ opacity: 1;
   background-repeat: no-repeat;
 }
 
+#Flix{
+  background-image: url('Flix.jpg');
+  background-size: 110%;
+  height: 100%;
+  transition: all 0.3s ease-in-out;
+  background-size: 110%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
-#STS:hover, #GNT:hover, #Gallo:hover, #Roe:hover, #JW:hover, #NHS:hover, #Embraer:hover, #YMCA:hover, #Miller:hover {
+#Santander{
+  background-image: url('Pago.jpg');
+  background-size: 110%;
+  height: 100%;
+  transition: all 0.3s ease-in-out;
+  background-size: 110%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#Personal{
+  background-image: url('Design_thumbnail.jpg');
+  background-size: 110%;
+  height: 100%;
+  transition: all 0.3s ease-in-out;
+  background-size: 110%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+#STS:hover, #GNT:hover, #Gallo:hover, #Roe:hover, #JW:hover, #NHS:hover, #Embraer:hover, #YMCA:hover, #Miller:hover, #Flix:hover, #Santander:hover, #Personal:hover{
   background-size: 100%;
 }
 
@@ -343,7 +373,17 @@ max-width: none;
   max-width:600px;
 }
 
+.Assets_2{
+  margin:auto;
+  margin-bottom: 6rem;
+  max-width: 100%;
+}
+
 .Assets img {
+  width:100%;
+}
+
+.Assets_2 img {
   width:100%;
 }
 
