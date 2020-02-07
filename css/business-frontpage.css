@@ -245,7 +245,7 @@ opacity: 1;
 }
 
 
-#STS:hover, #GNT:hover, #Gallo:hover, #Roe:hover, #JW:hover, #NHS:hover, #Embraer:hover, #YMCA:hover, #Miller:hover, #Flix:hover, #Santander:hover, #Personal:hover{
+#STS:hover, #GNT:hover, #Gallo:hover, #Roe:hover, #JW:hover, #NHS:hover, #Embraer:hover, #YMCA:hover, #Miller:hover, #Flix:hover, #Santander:hover, #Personal:hover, #Flix:hover{
   background-size: 100%;
 }
 
@@ -368,12 +368,14 @@ max-width: none;
 }
 
 .Assets{
+  display:block;
   margin:auto;
   margin-bottom: 6rem;
   max-width:600px;
 }
 
 .Assets_2{
+  display:block;
   margin:auto;
   margin-bottom: 6rem;
   max-width: 100%;
